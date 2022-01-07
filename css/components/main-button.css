@@ -1,0 +1,38 @@
+.main-button {
+    display: inline-block;
+    background: linear-gradient(to left, #00b4db, #0083b0); 
+
+    line-height: 60px;
+    height: 60px;
+    padding-left: 20px;
+    padding-right: 20px;
+    box-shadow: 5px 5px 0px #141414;
+    color: #FFF;
+    font-family: 'Roboto Slab', serif;
+    margin-right: 0px;
+    transition: background-color 200ms, transform 150ms ease-in-out;
+    text-decoration: none;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+/* #00b09b
+
+#96c93d */
+
+.main-button:hover {
+    background: linear-gradient(to right, #8360c3, #2ebf91); 
+    color: #fff; 
+    transform: scale(1.05);
+
+}
+
+.main-button.-form {
+    margin-top: 50px;
+    font-size: 30px;
+    padding: 10px 75px;
+    line-height: 100%; 
+    width: 250px;
+    display: flex;
+}
+

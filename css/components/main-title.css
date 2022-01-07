@@ -1,0 +1,12 @@
+.main-title {
+    font-family: 'Roboto Slab', serif;
+    font-size: 40px;
+    color: #2bd1dd;
+    text-shadow: 4px 4px 0px #000;
+}
+
+.main-title.-second {
+    text-align: center;
+    text-shadow: none;
+    color: #FFF;
+}

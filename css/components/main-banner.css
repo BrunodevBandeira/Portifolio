@@ -1,0 +1,33 @@
+.main-banner {
+    box-sizing: border-box;
+    background-image: url(../../assets/img/konoha1.gif) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 800px;
+    border-bottom: 10px solid #000;
+    padding-top: 100px;
+    padding-left: 160px;
+    padding-bottom: 430px;
+}
+
+.main-banner .wrapper {
+    display: flex;
+    flex-direction: column;
+    width: 450px;
+}
+
+.main-banner .main-box {
+    margin-bottom: 50px;
+}
+
+.main-banner .nav {
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.main-banner .main-button {
+    width: 160px;
+    text-align: center;
+    
+}

@@ -1,0 +1,10 @@
+.main-bio {
+    font-size: 30px;
+    font-family: 'Open Sans', sans-serif;
+    color: #FFF;
+    padding: 0 80px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: justify;
+    line-height: 1.35;
+}

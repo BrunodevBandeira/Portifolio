@@ -1,0 +1,12 @@
+.main-footer {
+    display: flex;
+    justify-content: center;
+    background: linear-gradient(to left, #360033, #0b8793); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    padding: 25px 0px;
+}
+
+.main-footer .icons {
+    margin: 0px 15px;
+    width: 5rem;
+    height: 5rem;
+}

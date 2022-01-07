@@ -1,0 +1,37 @@
+.node-card {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+}
+
+.node-card .title {
+    color: #FFF;
+    font-size: 30px;
+    font-family: 'Roboto Slab', serif;
+    margin-bottom: 45px;
+}
+
+.node-card::before {
+    content: "";
+    width: 35px;
+    border: 2.5px dashed #000;
+    transform: rotate(90deg) translateX(-62%);
+    position: absolute;
+    bottom: 140px;
+}
+
+.node-card .logo {
+    display: flex;
+    align-items: center;
+    height: 140px;
+    padding-left: 24px;
+    padding-right: 24px;
+    background-color: #FFD845;
+    border: 5px solid #000;
+}
+
+.node-card.-clean .logo {
+    padding: 0px;
+}
+
