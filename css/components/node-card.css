@@ -24,14 +24,25 @@
 .node-card .logo {
     display: flex;
     align-items: center;
-    height: 140px;
-    padding-left: 24px;
+    height: 12rem;
+    width: 18rem;
+    /* padding-left: 24px;
     padding-right: 24px;
-    background-color: #FFD845;
-    border: 5px solid #000;
+    background-color: #FFD845; */
+    /* border: 5px solid #000; */
+    overflow: hidden;
+    object-fit: cover;
+    box-shadow: 25px -20px 10px #141414;
 }
 
-.node-card.-clean .logo {
-    padding: 0px;
+.node-card .logo-img {
+    width: 18rem;
+    z-index: 1;
 }
+
+/* .node-card.-clean .logo {
+    padding: 0px;
+    overflow: hidden;
+    object-fit: cover;
+} */
 

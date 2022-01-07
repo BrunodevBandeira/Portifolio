@@ -1,5 +1,5 @@
 .main-section {
-    background: linear-gradient(to left, #360033, #0b8793); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(to left, #360033, #0b8793); 
     border-bottom: 10px solid #000;
     padding-top: 50px;
     padding-bottom: 100px;

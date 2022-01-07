@@ -39,6 +39,7 @@
 .main-carousel .itens {
     width: 100%;
     overflow: hidden;
+    object-fit: cover;
 }
 
 .main-carousel .elements {
