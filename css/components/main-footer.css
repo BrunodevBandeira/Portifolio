@@ -9,4 +9,11 @@
     margin: 0px 15px;
     width: 5rem;
     height: 5rem;
+    transition: 0.4s ease-in-out;
+}
+
+
+.main-footer .icons:hover {
+        width: 5.8rem;
+        height: 5.8rem;
 }

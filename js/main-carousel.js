@@ -13,4 +13,3 @@ btnLeft.addEventListener('click', function() {
     pos = pos - 150;
     elements.style = `transform: translateX(${pos}px)`;
 });
-
