@@ -5,7 +5,7 @@
     box-sizing: border-box;
 }
 
-.progress-bar::-webkit-progress-bar, .progress-bar::-moz-progress-bar {
+.progress-bar::-webkit-progress-bar, .progress-bar::-moz-progress-bar, .progress-bar::-o-progress-bar {
     background: #43c6ac; 
     background: -webkit-linear-gradient(to right, #43c6ac, #191654); 
     background: -moz-linear-gradient(to right, #43c6ac, #191654); 
