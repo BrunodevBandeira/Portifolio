@@ -7,8 +7,10 @@
 
 .progress-bar::-webkit-progress-bar, .progress-bar::-moz-progress-bar {
     background: #43c6ac; 
-    background: -webkit-linear-gradient(-30deg, #43c6ac, #191654); 
-    background: linear-gradient(-30deg, #43c6ac,#800080, #191654); 
+    background: -webkit-linear-gradient(to right, #43c6ac, #191654); 
+    background: -moz-linear-gradient(to right, #43c6ac, #191654); 
+    background: -o-linear-gradient(to right, #43c6ac, #191654); 
+    background: linear-gradient(to right, #43c6ac,#800080, #191654); 
 }
 
 
