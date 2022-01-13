@@ -18,3 +18,19 @@
 .wrapper-skill .skill-tech:nth-child(odd) {
     margin-right: 100px;
 }
+
+@media (max-width: 660px) {
+
+    .right progress {
+        margin-left: 1.5rem;
+    }
+
+    .wrapper-skill .progress-bar {
+        margin-top: 10rem;
+    }
+    
+    .wrapper-skill .icon {
+        position: absolute;
+        left: 8.5rem;
+    }
+}

@@ -1,0 +1,11 @@
+
+
+/* max-width: 600px 
+        É o maximo em pixel, ou seja, o efeito apenas sera aplicado
+        na tela que estiver <= 600px, > que 600px, o efeito não é aplicado
+        
+min-width: 600px
+        É o minimo em pixel, ou seja, o efeito apenas sera aplicado
+        na tela que estiver >= 600px, < que 600px, o efeito não é aplicado 
+*/
+

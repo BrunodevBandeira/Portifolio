@@ -13,3 +13,20 @@
     background-color: #3A4042;
     border-bottom: 10px solid #000;
 }
+
+
+@media (max-width: 660px) {
+
+    .main-section {
+        background-image: url(../../assets/img/renacentismo1.jpg) ;
+
+    }
+    
+    .main-section .main-title {
+    
+    }
+    
+    .main-section.-second {
+    
+    }
+}

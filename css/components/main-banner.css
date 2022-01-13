@@ -31,3 +31,37 @@
     text-align: center;
     
 }
+
+@media (max-width: 660px) {
+
+    .main-banner {
+        box-sizing: border-box;
+        background-image: url(../../assets/img/renacentismo.jpg) ;
+        background-repeat: no-repeat;
+        background-size: fill;
+        border-bottom: 10px solid #000;
+    }
+    
+    .main-banner .wrapper {
+        position: relative;
+        right: 7rem;
+
+    }
+    
+    .main-banner .main-box {
+        width: 8rem;
+    }
+    
+    .main-banner .nav {
+        display: flex;
+        flex-direction: column;
+        position: relative;
+        left: 2.5rem;
+
+    }
+    
+    .main-banner .main-button {
+        margin: 1rem 0;
+        
+    }
+}

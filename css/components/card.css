@@ -9,7 +9,6 @@ section .card {
     left: 6rem;
 }
 
-
 section .card .box {
     position: absolute;
     top: 0;
@@ -87,4 +86,9 @@ section .card .box .contentBx div p{
 
 .img-size {
     width: 20rem;
+}
+
+@media (max-width: 660px) {
+
+    
 }

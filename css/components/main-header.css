@@ -18,3 +18,18 @@
     box-shadow: 0px 0px 3rem rgb(255, 255, 255);
 }
 
+@media (max-width: 667px) {
+
+    .fotoPerfil {
+        display: none;
+    }
+
+    #main-button-header {
+        display: none;
+    }
+
+    .navigation {
+        text-align: center;
+    }
+}
+

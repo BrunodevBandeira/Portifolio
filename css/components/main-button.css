@@ -16,9 +16,6 @@
     cursor: pointer;
 }
 
-/* #00b09b
-
-#96c93d */
 
 .main-button:hover {
     background: linear-gradient(to right, #8360c3, #2ebf91); 
@@ -36,3 +33,9 @@
     display: flex;
 }
 
+@media (max-width: 660px) {
+
+    .main-button {
+        background: linear-gradient(to right, #8360c359, #2ebf91a9); 
+    }
+}

@@ -10,3 +10,11 @@
 .main-box .main-title {
     margin-bottom: 20px;
 }
+
+@media (max-width: 660px) {
+
+    .main-box {
+        background: linear-gradient(to right, #8360c359, #2ebf91a9); 
+    }
+
+}
