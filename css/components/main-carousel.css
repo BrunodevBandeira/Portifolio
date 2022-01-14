@@ -47,3 +47,10 @@
     justify-content: space-evenly;
     transition: transform 100ms ease-in-out ;
 }
+
+
+@media (max-width: 660px) {
+
+    
+
+}

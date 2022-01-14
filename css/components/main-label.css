@@ -5,3 +5,20 @@
     color: #FFF;
     align-items: flex-start;
 }
+
+
+@media (max-width: 660px) {
+
+    .main-label {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+
+        padding: 5px;
+        font-family: 'Open Sans', sans-serif;
+        font-size: 30px; 
+        color: #FFF;
+        align-items: flex-start;
+    }
+
+}

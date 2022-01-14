@@ -39,3 +39,11 @@
         background: linear-gradient(to right, #8360c359, #2ebf91a9); 
     }
 }
+
+
+@media (max-width: 810px) {
+
+    .main-button {
+        background: linear-gradient(to right, #8360c359, #2ebf9167); 
+    }
+}

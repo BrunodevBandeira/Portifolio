@@ -19,14 +19,10 @@
 
     .main-section {
         background-image: url(../../assets/img/renacentismo1.jpg) ;
-
     }
     
-    .main-section .main-title {
-    
-    }
-    
-    .main-section.-second {
-    
+    .box-card {
+        position: relative;
+        right: 5rem;
     }
 }

@@ -65,3 +65,30 @@
         
     }
 }
+
+
+@media (max-width: 810px) {
+
+    .main-banner {
+        background-image: url(../../assets/img/renacentismo.jpg) ;
+        background-repeat: no-repeat;
+        background-size: fill;
+
+    }
+    
+    .main-banner .wrapper {
+
+    }
+    
+    .main-banner .main-box {
+
+    }
+    
+    .main-banner .nav {
+
+    }
+    
+    .main-banner .main-button {
+        
+    }
+}

@@ -39,3 +39,24 @@
         display: none;
     }
 }
+
+@media (max-width: 810px) {
+    .skill-tech {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+    }
+    
+    .skill-tech .icon {
+
+    }
+    
+    .skill-tech .right {
+
+    }
+    
+    .skill-tech .title {
+
+    }
+}

@@ -7,4 +7,12 @@
 }
 
 
+@media (max-width: 660px) {
 
+    .main-form {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+    }
+
+}
