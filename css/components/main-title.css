@@ -10,3 +10,12 @@
     text-shadow: none;
     color: #FFF;
 }
+
+
+@media (max-width: 660px) {
+
+    #centro {
+        
+    }
+    
+}

@@ -33,7 +33,11 @@
     
     .wrapper-skill .icon {
         position: absolute;
-        left: 8.5rem;
+        left: 10rem;
+    }
+
+    .wrapper-skill .skill-tech:nth-child(odd) {
+        margin-right: 0px;
     }
 }
 
@@ -54,5 +58,8 @@
     .wrapper-skill .icon {
         /* position: absolute;
         left: 8.5rem; */
+    }
+    .wrapper-skill .skill-tech:nth-child(odd) {
+        margin-right: 0px;
     }
 }

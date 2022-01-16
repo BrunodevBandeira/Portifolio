@@ -16,3 +16,15 @@
     }
 
 }
+
+
+@media (max-width: 810px) {
+
+    .main-form {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+    }
+
+}
+

@@ -25,4 +25,27 @@
         position: relative;
         right: 5rem;
     }
+
+    #centro {
+        text-align: center;
+    }
+    
+}
+
+
+@media (max-width: 810px) {
+
+
+    .main-section {
+        background-image: url(../../assets/img/renacentismo1.jpg) ;
+    }
+    
+    .box-card {
+        position: relative;
+        right: 5rem;
+    }
+
+    #centro {
+        text-align: center;
+    }
 }
