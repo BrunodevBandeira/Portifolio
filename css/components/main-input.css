@@ -34,7 +34,7 @@
 
 @media (max-width: 810px) {
 
-     .main-input {
+    .main-input {
         box-sizing: border-box;
         max-width: 685px;
         height: 50px;

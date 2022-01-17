@@ -1,10 +1,9 @@
 .main-box {
     display: inline-block;
-    background: linear-gradient(to right, #8360c3, #2ebf91); 
+    background: linear-gradient(to right, #8360c359, #2ebf918c); 
     box-shadow: 10px 10px 0px #000;
     text-align: center;
     padding: 30px 75px;
-
 }
 
 .main-box .main-title {
