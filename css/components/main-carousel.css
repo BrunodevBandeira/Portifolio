@@ -22,6 +22,7 @@
     border: 3px dashed #000;
 }
 
+
 .main-carousel .button-arrow {
     position: absolute;
     bottom: 170px;
@@ -58,8 +59,47 @@
 }
 
 
-@media (max-width: 660px) {
+/* ============== books ================*/
 
-    
 
+.main-carousel-books {
+    position: relative;
+    padding: 0px 100px 100px 100px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.main-carousel-books .button-arrow {
+    position: absolute;
+    bottom: 170px;
+    transform: translateY(50%);
+}
+
+.main-carousel-books .button-arrow.-left {
+    left:15px;
+}
+
+.main-carousel-books .button-arrow.-right {
+    right: 15px;
+}
+
+.main-carousel-books .itens {
+    width: 100%;
+    overflow: hidden;
+    object-fit: cover;
+}
+
+
+.main-carousel-books .elements {
+    display: flex;
+    justify-content: space-evenly;
+    transition: transform 100ms ease-in-out ;
+}
+
+
+.main-carousel-books .itens-books {
+    width: 100%;
+    overflow: hidden;
+    object-fit: cover;
+    padding: 4rem;
 }
