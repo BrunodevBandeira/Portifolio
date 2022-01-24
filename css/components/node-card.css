@@ -67,6 +67,20 @@
 
 @media (max-width: 660px) {
 
-    
+    .node-card .res{
+        display: none;
+    }
+
+    .logo-books .logo-img {
+        display: none;
+    }
+
+    .node-card .logo-books {
+        display: none;
+    }
+
+    .main-carousel-books {
+        display: none;
+    }
 
 }

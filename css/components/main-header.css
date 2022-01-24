@@ -33,3 +33,13 @@
     }
 }
 
+
+@media (max-width: 1204px) {
+
+    #main-button-header {
+        display: none;
+    }
+
+}
+
+
